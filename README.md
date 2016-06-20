@@ -3,7 +3,7 @@ Seeing Sound Interactive Installation by **AUTOSAVE & pug-in studio** for เท
  
 
 
-### Tell me what this do!
+### Tell me what this does!
 Basically, any sound from microphone will be turned into shape. The shape, color and size will be calculated according to amplitude and frequency of the sound in the particular moment.
 
 ### How the use this shit!

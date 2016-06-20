@@ -7,7 +7,7 @@ Seeing Sound Interactive Installation by **AUTOSAVE & pug-in studio** for เท
 Basically, any sound from microphone will be turned into shape. The shape, color and size will be calculated according to amplitude and frequency of the sound in the particular moment.
 
 ### How to use this shit!
-You need Processing (https://processing.org/) to run this. Each folder are the versions that we develop
+You need Processing (https://processing.org/) to run this. Each folder are the versions that we developed
 In case you want to use it with madmapper, install syphon library for processing and run sound_object_x2 folder 
 
 

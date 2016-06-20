@@ -1,7 +1,5 @@
 # Seeing-Sound-Interactive-Installation
-Seeing Sound Interactive Installation by **AUTOSAVE & pug-in studio** for เทศกาลดนตรี กรุงเทพฯ // La Fête de la musique à Bangkok
-
-A music event hosted by The Embassy of France in Thailand, in partnership with Alliance Française Bangkok at Alliance française de Bangkok on 18/06/16
+Seeing Sound Interactive Installation by **AUTOSAVE & pug-in studio** for เทศกาลดนตรี กรุงเทพฯ // La Fête de la musique à Bangkok, a music event hosted by The Embassy of France in Thailand, in partnership with Alliance Française Bangkok at Alliance française de Bangkok on 18/06/16
  
 
 
